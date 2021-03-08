@@ -1,0 +1,5 @@
+/Users/malyabansal/Projects/EmployeeProject/EmployeeProject/bin/Debug/EmployeeProject.exe
+/Users/malyabansal/Projects/EmployeeProject/EmployeeProject/bin/Debug/EmployeeProject.pdb
+/Users/malyabansal/Projects/EmployeeProject/EmployeeProject/obj/Debug/EmployeeProject.csprojAssemblyReference.cache
+/Users/malyabansal/Projects/EmployeeProject/EmployeeProject/obj/Debug/EmployeeProject.exe
+/Users/malyabansal/Projects/EmployeeProject/EmployeeProject/obj/Debug/EmployeeProject.pdb
