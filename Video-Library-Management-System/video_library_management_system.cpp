@@ -15,7 +15,7 @@
 typedef char option[150];
 const int ROW = 10, COL = 10;
 
-int scan;    // To hold the special characters for moving the prompt in menu
+int scan;    // To hold the special characters for moving the prompt in the menu
 int ascii;
 
 // To display the main menu options
